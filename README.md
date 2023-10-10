@@ -36,8 +36,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
@@ -45,7 +44,7 @@ Some of the challenges I encountered during this project include: parsing the JS
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Chloe Casuga]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
