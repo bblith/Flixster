@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Flixster+2_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -40,7 +40,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I initially had difficulty displaying the detail screen, however, after I added DetailActivity to the app manifest, I was finally able to produce the correct output.
 
 ## License
 
